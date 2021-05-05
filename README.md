@@ -1,26 +1,26 @@
-### Expanse Bonus Compendia Pack
+# Expanse Bonus Compendia Pack
 
 This compendium pack includes the following AGE System specific compendia
 - Bonus Scenes
 - Bonus Actors
 - Bonus Items
 
-### Bonus Scenes
+# Bonus Scenes
 The Bonus Scenes pack includes copyrighted material I've personally extracted from resources I own for my own personal use
-# General Scenes
+## General Scenes
 - Sol System Map
-# 532 Herculina
+## 532 Herculina
 - Herculina
-# Prometheus
+## Prometheus
 - Prometheus Warehouse
-# Ships
+## Ships
 - The Picus
 - The Roci
 
-### Bonus Actors
+# Bonus Actors
 The Bonus Actors pack includes NPCs defined in copyrighted material I've personally extracted from resources I own for my own personal use.
 ## NPCs
-# Abzu's Bounty
+### Abzu's Bounty
 - Abzu's Bounty Engineer
 - Abzu's Bounty Ice Wrangler
 - Abzu's Bounty Technician
@@ -35,17 +35,17 @@ The Bonus Actors pack includes NPCs defined in copyrighted material I've persona
 - Raisa Arnova
 - Saveen Patel
 - Xin Reys
-# Rocinante
+### Rocinante
 - Alex Kamal
 - Amos Burton
 - Chrisjen Avasarala
 - James Holden
 - Naomi Nagata
 - Roberta "Bobbie" Draper
-# Salvage Op
+### Salvage Op
 - Combat Drone
 - Kay Tolen
-# To Sleep Perchance To Dream
+### To Sleep Perchance To Dream
 - Corporate Overseer
 - Dr. Anna Bragenholm
 - Dr Matteo Cerri
@@ -65,7 +65,7 @@ The Bonus Actors pack includes NPCs defined in copyrighted material I've persona
 - Ford Prefect
 - Nico Valez
 ## Ships
-# Green Ronin Generics
+### Green Ronin Generics
 - Battleship
 - Cruiser
 - Destroyer
@@ -77,17 +77,17 @@ The Bonus Actors pack includes NPCs defined in copyrighted material I've persona
 - Ships Boat
 - Shuttle
 - Small Freighter
-# Green Ronin Modules
+### Green Ronin Modules
 - Abzu's Bounty
 - Anne Bonny
 - Ebenezer Hazzard
 - Picus
 - Sommelier
 
-### Bonus Items
+# Bonus Items
 The Bonus Items pack includes Items (equipment, focuses, talents, specilizations, stunts) defined in copyrighted material I've personally extracted from resources I own for my own personal use.
 ## Ship Features
-# Flaw
+### Flaw
 - Bad Juice
 - Faulty System
 - Fragile
@@ -96,7 +96,7 @@ The Bonus Items pack includes Items (equipment, focuses, talents, specilizations
 - Poor Amenities
 - Vulnerable Systems
 - Wanted
-# Qualities
+### Qualities
 - Advanced Sensor Package I
 - Advanced Sensor Package II
 - Advanced Sensor Package III
