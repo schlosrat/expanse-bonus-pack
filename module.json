@@ -22,14 +22,14 @@
 		},
 		{
 			"name": "bonus-actors",
-			"label": "NPCs and Ships",
+			"label": "Actors",
 			"path": "packs/bonus-actors.db",
 			"entity": "Actor",
 			"module": "ExpanseBonusPack"
 		},
 		{
 			"name": "bonus-items",
-			"label": "Gear",
+			"label": "Items",
 			"path": "packs/bonus-items.db",
 			"entity": "Item",
 			"module": "ExpanseBonusPack"
