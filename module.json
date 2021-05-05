@@ -1,0 +1,44 @@
+{
+	"name": "expanse-bonus-pack",
+	"title": "Expanse Bonus Pack",
+	"description": "Not So Shareable Expanse RPG Compendium Pack - INCLUDES COPYRIGHTED MATERIAL",
+	"author": "schlosrat",
+	"version": "0.1.0",
+	"system": "age-system",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion":"0.7.9",
+	"url": "https://github.com/schlosrat/expanse-bonus-pack",
+	"manifest": "https://raw.githubusercontent.com/schlosrat/expanse-bonus-pack/master/module.json",
+	"download": "https://github.com/schlosrat/expanse-bonus-pack/archive/refs/tags/0.1.0.zip",
+	"changelog": "https://github.com/schlosrat/expanse-bonus-pack/blob/master/CHANGELOG.md",
+	"readme": "https://github.com/schlosrat/expanse-bonus-pack/blob/master/README.md",
+	"dependencies": [
+		{
+		  "name": "expanse-pack",
+		  "manifest": "https://raw.githubusercontent.com/schlosrat/expanse-pack/master/module.json",
+		}
+	],
+	"packs": [
+		{
+			"name": "bonus-scenes",
+			"label": "Scenes",
+			"path": "packs/bonus-scenes.db",
+			"entity": "Scene",
+			"module": "ExpansePack"
+		},
+		{
+			"name": "bonus-actors",
+			"label": "NPCs and Ships",
+			"path": "packs/bonus-actors.db",
+			"entity": "Actor",
+			"module": "ExpansePack"
+		},
+		{
+			"name": "bonus-items",
+			"label": "Gear",
+			"path": "packs/bonus-items.db",
+			"entity": "Item",
+			"module": "ExpansePack"
+		}
+	]
+}
