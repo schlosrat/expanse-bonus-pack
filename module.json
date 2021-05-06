@@ -3,34 +3,69 @@
 	"title": "Expanse Bonus Pack",
 	"description": "Not-so-Shareable Expanse RPG Compendium Pack - INCLUDES COPYRIGHTED MATERIAL",
 	"author": "schlosrat",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"system": "age-system",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion":"0.7.9",
 	"url": "https://github.com/schlosrat/expanse-bonus-pack",
 	"manifest": "https://raw.githubusercontent.com/schlosrat/expanse-bonus-pack/master/module.json",
-	"download": "https://github.com/schlosrat/expanse-bonus-pack/archive/refs/tags/0.1.0.zip",
+	"download": "https://github.com/schlosrat/expanse-bonus-pack/archive/refs/tags/0.1.1.zip",
 	"changelog": "https://github.com/schlosrat/expanse-bonus-pack/blob/master/CHANGELOG.md",
 	"readme": "https://github.com/schlosrat/expanse-bonus-pack/blob/master/README.md",
 	"packs": [
 		{
-			"name": "bonus-scenes",
-			"label": "Scenes",
-			"path": "packs/bonus-scenes.db",
-			"entity": "Scene",
-			"module": "ExpanseBonusPack"
-		},
-		{
 			"name": "bonus-actors",
-			"label": "Actors",
+			"label": "Bonus Actors",
 			"path": "packs/bonus-actors.db",
 			"entity": "Actor",
 			"module": "ExpanseBonusPack"
 		},
 		{
 			"name": "bonus-items",
-			"label": "Items",
+			"label": "Bonus Items",
 			"path": "packs/bonus-items.db",
+			"entity": "Item",
+			"module": "ExpanseBonusPack"
+		},
+		{
+			"name": "bonus-scenes",
+			"label": "Bonus Scenes",
+			"path": "packs/bonus-scenes.db",
+			"entity": "Scene",
+			"module": "ExpanseBonusPack"
+		},
+		{
+			"name": "focuses",
+			"label": "Bonus Focuses",
+			"path": "packs/focuses.db",
+			"entity": "Item",
+			"module": "ExpanseBonusPack"
+		},
+		{
+			"name": "relationships",
+			"label": "Bonus Relationships",
+			"path": "packs/relationships.db",
+			"entity": "Item",
+			"module": "ExpanseBonusPack"
+		},
+		{
+			"name": "specializations",
+			"label": "Bonus Specializations",
+			"path": "packs/specializations.db",
+			"entity": "Item",
+			"module": "ExpanseBonusPack"
+		},
+		{
+			"name": "stunts",
+			"label": "Bonus Stunts",
+			"path": "packs/stunts",
+			"entity": "Item",
+			"module": "ExpanseBonusPack"
+		},
+		{
+			"name": "talents",
+			"label": "Bonus Talents",
+			"path": "packs/talents.db",
 			"entity": "Item",
 			"module": "ExpanseBonusPack"
 		}

@@ -1,21 +1,14 @@
 # Expanse Bonus Compendia Pack
 
 This compendium pack includes the following AGE System specific compendia
-- Bonus Scenes
 - Bonus Actors
 - Bonus Items
-
-# Bonus Scenes
-The Bonus Scenes pack includes copyrighted material I've personally extracted from resources I own for my own personal use
-## General Scenes
-- Sol System Map
-## 532 Herculina
-- Herculina
-## Prometheus
-- Prometheus Warehouse
-## Ships
-- The Picus
-- The Roci
+- Bonus Scenes
+- Bonus Focuses
+- Bonus Relationships
+- Bonus Specializations
+- Bonus Stunts
+- Bonus Talents
 
 # Bonus Actors
 The Bonus Actors pack includes NPCs defined in copyrighted material I've personally extracted from resources I own for my own personal use.
@@ -117,3 +110,30 @@ The Bonus Items pack includes Items (equipment, focuses, talents, specilizations
 ## Tools
 - TBD
 
+# Bonus Scenes
+The Bonus Scenes pack includes copyrighted material I've personally extracted from resources I own for my own personal use
+## General Scenes
+- Sol System Map
+## 532 Herculina
+- Herculina
+## Prometheus
+- Prometheus Warehouse
+## Ships
+- The Picus
+- The Roci
+
+# Bonus Focuses
+- All Focuses from the Expanse Core Rules organized by attribute they fall under
+
+# Bonus Relatinoships
+- Sommelier Crew[1]
+
+# Bonus Specializations
+- Academic
+- Agent
+
+# Bonus Stunts
+- All Stunts from the Expanse Core Rules organized by the stunt groups defined in that resource
+
+# Bonus Talents
+- All Talents from the Expanse Core Rules
