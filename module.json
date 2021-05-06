@@ -35,6 +35,13 @@
 			"module": "ExpanseBonusPack"
 		},
 		{
+			"name": "focuses-flat",
+			"label": "Bonus Flat Focuses (no folders)",
+			"path": "packs/focuses-flat.db",
+			"entity": "Item",
+			"module": "ExpanseBonusPack"
+		},
+		{
 			"name": "focuses",
 			"label": "Bonus Focuses",
 			"path": "packs/focuses.db",
@@ -59,6 +66,13 @@
 			"name": "stunts",
 			"label": "Bonus Stunts",
 			"path": "packs/stunts",
+			"entity": "Item",
+			"module": "ExpanseBonusPack"
+		},
+		{
+			"name": "talents-flat",
+			"label": "Bonus Flat Talents (no folders)",
+			"path": "packs/talents-flat.db",
 			"entity": "Item",
 			"module": "ExpanseBonusPack"
 		},
