@@ -107,6 +107,13 @@
 			"path": "packs/talents.db",
 			"entity": "Item",
 			"module": "ExpanseBonusPack"
+		},
+		{
+			"name": "pc-notes",
+			"label": "PC Notes",
+			"path": "packs/pc-notes.db",
+			"entity": "JournalEntry",
+			"module": "ExpanseBonusPack"
 		}
 	]
 }
