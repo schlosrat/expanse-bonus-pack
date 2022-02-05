@@ -60,51 +60,58 @@
 			"module": "ExpanseBonusPack"
 		},
 		{
-			"name": "focuses-flat",
+			"name": "bonus-focuses-flat",
 			"label": "Bonus Flat Focuses (no folders)",
-			"path": "packs/focuses-flat.db",
+			"path": "packs/bonus-focuses-flat.db",
 			"entity": "Item",
 			"module": "ExpanseBonusPack"
 		},
 		{
-			"name": "focuses",
+			"name": "bonus-focuses",
 			"label": "Bonus Focuses",
-			"path": "packs/focuses.db",
+			"path": "packs/bonus-focuses.db",
 			"entity": "Item",
 			"module": "ExpanseBonusPack"
 		},
 		{
-			"name": "relationships",
+			"name": "bonus-relationships",
 			"label": "Bonus Relationships",
-			"path": "packs/relationships.db",
+			"path": "packs/bonus-relationships.db",
 			"entity": "Item",
 			"module": "ExpanseBonusPack"
 		},
 		{
-			"name": "specializations",
+			"name": "bonus-specializations",
 			"label": "Bonus Specializations",
-			"path": "packs/specializations.db",
+			"path": "packs/bonus-specializations.db",
 			"entity": "Item",
 			"module": "ExpanseBonusPack"
 		},
 		{
-			"name": "stunts",
+			"name": "bonus-stunts",
 			"label": "Bonus Stunts",
-			"path": "packs/stunts",
+			"path": "packs/bonus-stunts.db",
 			"entity": "Item",
 			"module": "ExpanseBonusPack"
 		},
 		{
-			"name": "talents-flat",
+			"name": "bonus-talents-flat",
 			"label": "Bonus Flat Talents (no folders)",
-			"path": "packs/talents-flat.db",
+			"path": "packs/bonus-talents-flat.db",
 			"entity": "Item",
 			"module": "ExpanseBonusPack"
 		},
 		{
 			"name": "talents",
 			"label": "Bonus Talents",
-			"path": "packs/talents.db",
+			"path": "packs/bonus-talents.db",
+			"entity": "Item",
+			"module": "ExpanseBonusPack"
+		},
+		{
+			"name": "bonus-honorifics",
+			"label": "Bonus Honorifics",
+			"path": "packs/bonus-honorifics.db",
 			"entity": "Item",
 			"module": "ExpanseBonusPack"
 		},
