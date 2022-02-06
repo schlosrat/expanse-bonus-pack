@@ -46,22 +46,8 @@
 			"module": "ExpanseBonusPack"
 		},
 		{
-			"name": "bonus-items",
-			"label": "Bonus Items",
-			"path": "packs/bonus-items.db",
-			"entity": "Item",
-			"module": "ExpanseBonusPack"
-		},
-		{
-			"name": "bonus-scenes",
-			"label": "Bonus Scenes",
-			"path": "packs/bonus-scenes.db",
-			"entity": "Scene",
-			"module": "ExpanseBonusPack"
-		},
-		{
 			"name": "bonus-focuses-flat",
-			"label": "Bonus Flat Focuses (no folders)",
+			"label": "Bonus Focuses Flat (no folders)",
 			"path": "packs/bonus-focuses-flat.db",
 			"entity": "Item",
 			"module": "ExpanseBonusPack"
@@ -74,10 +60,31 @@
 			"module": "ExpanseBonusPack"
 		},
 		{
+			"name": "bonus-honorifics",
+			"label": "Bonus Honorifics",
+			"path": "packs/bonus-honorifics.db",
+			"entity": "Item",
+			"module": "ExpanseBonusPack"
+		},
+		{
+			"name": "bonus-items",
+			"label": "Bonus Items",
+			"path": "packs/bonus-items.db",
+			"entity": "Item",
+			"module": "ExpanseBonusPack"
+		},
+		{
 			"name": "bonus-relationships",
 			"label": "Bonus Relationships",
 			"path": "packs/bonus-relationships.db",
 			"entity": "Item",
+			"module": "ExpanseBonusPack"
+		},
+		{
+			"name": "bonus-scenes",
+			"label": "Bonus Scenes",
+			"path": "packs/bonus-scenes.db",
+			"entity": "Scene",
 			"module": "ExpanseBonusPack"
 		},
 		{
@@ -102,16 +109,9 @@
 			"module": "ExpanseBonusPack"
 		},
 		{
-			"name": "talents",
+			"name": "bonus-talents",
 			"label": "Bonus Talents",
 			"path": "packs/bonus-talents.db",
-			"entity": "Item",
-			"module": "ExpanseBonusPack"
-		},
-		{
-			"name": "bonus-honorifics",
-			"label": "Bonus Honorifics",
-			"path": "packs/bonus-honorifics.db",
 			"entity": "Item",
 			"module": "ExpanseBonusPack"
 		},
