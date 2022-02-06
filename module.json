@@ -102,13 +102,6 @@
 			"module": "ExpanseBonusPack"
 		},
 		{
-			"name": "bonus-talents-flat",
-			"label": "Bonus Flat Talents (no folders)",
-			"path": "packs/bonus-talents-flat.db",
-			"entity": "Item",
-			"module": "ExpanseBonusPack"
-		},
-		{
 			"name": "bonus-talents",
 			"label": "Bonus Talents",
 			"path": "packs/bonus-talents.db",
