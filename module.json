@@ -32,6 +32,11 @@
 		  "type": "module"
 		},
 		{
+			"name": "expanse-npcs-pack",
+			"manifest": "https://raw.githubusercontent.com/schlosrat/expanse-npcs-pack/master/module.json",
+			"type": "module"
+		  },
+		  {
 			"name": "age-system",
 			"manifest": "https://raw.githubusercontent.com/vkdolea/age-system/prep-release/system.json",
 			"type": "system"
@@ -46,9 +51,9 @@
 			"module": "ExpanseBonusPack"
 		},
 		{
-			"name": "bonus-augmentation",
-			"label": "Bonus Augmentation",
-			"path": "packs/bonus-augmentation.db",
+			"name": "bonus-augmentations",
+			"label": "Bonus Augmentations",
+			"path": "packs/bonus-augmentations.db",
 			"entity": "Item",
 			"module": "ExpanseBonusPack"
 		},
