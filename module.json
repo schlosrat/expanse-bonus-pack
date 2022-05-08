@@ -32,8 +32,8 @@
 		  "type": "module"
 		},
 		{
-			"name": "expanse-npcs-pack",
-			"manifest": "https://raw.githubusercontent.com/schlosrat/expanse-npcs-pack/master/module.json",
+			"name": "expanse-npc-pack",
+			"manifest": "https://raw.githubusercontent.com/schlosrat/expanse-npc-pack/master/module.json",
 			"type": "module"
 		},
 		{
