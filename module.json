@@ -46,6 +46,13 @@
 			"module": "ExpanseBonusPack"
 		},
 		{
+			"name": "bonus-augmentation",
+			"label": "Bonus Augmentation",
+			"path": "packs/bonus-augmentation.db",
+			"entity": "Item",
+			"module": "ExpanseBonusPack"
+		},
+		{
 			"name": "bonus-focuses-flat",
 			"label": "Bonus Focuses Flat (no folders)",
 			"path": "packs/bonus-focuses-flat.db",
