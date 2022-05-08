@@ -107,6 +107,13 @@
 			"module": "ExpanseBonusPack"
 		},
 		{
+			"name": "bonus-stunts-flat",
+			"label": "Bonus Stunts Flat (no folders)",
+			"path": "packs/bonus-stunts-flat.db",
+			"entity": "Item",
+			"module": "ExpanseBonusPack"
+		},
+		{
 			"name": "bonus-stunts",
 			"label": "Bonus Stunts",
 			"path": "packs/bonus-stunts.db",
