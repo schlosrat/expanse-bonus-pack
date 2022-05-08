@@ -35,8 +35,8 @@
 			"name": "expanse-npcs-pack",
 			"manifest": "https://raw.githubusercontent.com/schlosrat/expanse-npcs-pack/master/module.json",
 			"type": "module"
-		  },
-		  {
+		},
+		{
 			"name": "age-system",
 			"manifest": "https://raw.githubusercontent.com/vkdolea/age-system/prep-release/system.json",
 			"type": "system"
