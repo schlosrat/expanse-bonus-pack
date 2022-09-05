@@ -171,7 +171,7 @@
     ]
   },
   "compatibility": {
-    "minimum": "0.6.0",
-    "verified": "10"
+    "minimum": "10",
+    "verified": "10.284"
   }
 }
